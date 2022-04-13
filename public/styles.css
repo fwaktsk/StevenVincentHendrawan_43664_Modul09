@@ -1,0 +1,46 @@
+body {
+  background: lightgrey;
+}
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.heading {
+  text-align: center;
+  align-content: center;
+}
+
+#root div div {
+  display: block;
+  width: 60%;
+  margin: auto;
+  height: 200px;
+}
+
+#root div div h2 {
+  border-radius: 15px 15px 0px 0px;
+  padding: 25px;
+  background: lightseagreen;
+  margin: 0px;
+  height: 25px;
+}
+
+#root div div img {
+  margin-right: 20px;
+  margin-top: 30px;
+  float: right;
+  border: white solid 3px;
+  border-radius: 50%;
+  width: 75px;
+}
+
+#root div div p {
+  padding: 25px;
+  background: cyan;
+  margin: 0px;
+  height: 50px;
+  border-radius: 0px 0px 15px 15px;
+  margin-bottom: 30px;
+}
